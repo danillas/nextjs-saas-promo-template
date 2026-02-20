@@ -13,6 +13,7 @@ I've decided to make template, to help speed up the launch and testing of hypoth
 ✅ [Biome](https://biomejs.dev/) (instead of Eslint, Prettier)\
 ✅ Minimum pages for example (Home, Blog)\
 
+> [!IMPORTANT]
 > 👁️ No Dark theme. Save time on debug
 
 ## Getting Started
