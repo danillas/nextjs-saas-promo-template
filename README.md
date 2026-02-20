@@ -7,11 +7,11 @@ This is a modified [Next.js](https://nextjs.org) project bootstrapped with [`cre
 I've decided to make template, to help speed up the launch and testing of hypotheses. You're free to offer new features, just make an issue or PR.
 
 ## Everything you need to get started
-✅ [Tailwind](https://tailwindcss.com/) CSS
-✅ [FSD](https://fsd.how/) folders structure
-✅ [Lucide](https://github.com/lucide-icons/lucide) icon pack
-✅ [Biome](https://biomejs.dev/) (instead of Eslint, Prettier)
-✅ Minimum pages for example (Home, Blog)
+✅ [Tailwind](https://tailwindcss.com/) CSS\
+✅ [FSD](https://fsd.how/) folders structure\
+✅ [Lucide](https://github.com/lucide-icons/lucide) icon pack\
+✅ [Biome](https://biomejs.dev/) (instead of Eslint, Prettier)\
+✅ Minimum pages for example (Home, Blog)\
 
 > 👁️ No Dark theme. Save time on debug
 
