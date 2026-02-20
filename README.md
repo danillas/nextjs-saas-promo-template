@@ -1,4 +1,4 @@
-# 🚀 NextJS Saas Template
+# 🚀 NextJS Saas promo template
 ---
 
 This is a modified [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
