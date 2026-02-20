@@ -1,0 +1,41 @@
+.root {
+  font-weight: 500;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  cursor: pointer;
+}
+
+.root__lg {
+  padding: 14px 28px;
+  border-radius: 8px;
+}
+
+.root__md {
+  padding: 4px 14px;
+  border-radius: 4px;
+}
+
+.root__primary {
+  background: black;
+  color: white;
+  transition: all 0.2s ease;
+}
+
+.root__primary:hover {
+  background: gray;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 16px rgba(103, 127, 255, 0.3);
+}
+
+.root__secondary {
+  background: transparent;
+  color: gray;
+  border: 1px solid gray;
+  transition: all 0.2s ease;
+}
+
+.root__secondary:hover {
+  background: rgba(103, 127, 255, 0.05);
+}
